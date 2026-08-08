@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=seetohshaokang)](https://github.com/stats-organization/github-stats-extended)
+
 <!--
 **seetohshaokang/seetohshaokang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

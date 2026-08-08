@@ -3,6 +3,8 @@
 [![Shao Kang's GitHub stats](https://github-stats-extended.vercel.app/api?username=seetohshaokang&show_icons=true&theme=calm&rank_icon=github&include_all_commits=true&custom_title=Shao+Kang%27s+Stats&disable_animations=true&number_format=long&show=prs_merged_percentage,prs_reviewed
 )](https://github.com/stats-organization/github-stats-extended)
 
+![ShaoKang's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=seetohshaokang&theme=tokyo-night)
+
 <!--
 **seetohshaokang/seetohshaokang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

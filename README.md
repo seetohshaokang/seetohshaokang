@@ -13,9 +13,6 @@
 <br>
 
 <div align="center">
-  <a href="https://github.com/stats-organization/github-stats-extended">
-    <img height="165" src="https://github-stats-extended.vercel.app/api?username=seetohshaokang&show_icons=true&theme=calm&rank_icon=github&include_all_commits=true&custom_title=Shao+Kang%27s+Stats&disable_animations=true&number_format=long&show=prs_merged_percentage,prs_reviewed" alt="Shao Kang's GitHub stats" />
-  </a>
   <img height="165" src="https://github-readme-streak-stats.herokuapp.com?user=seetohshaokang&theme=tokyonight" alt="GitHub Streak" />
 </div>
 

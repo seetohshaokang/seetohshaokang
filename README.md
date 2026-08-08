@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=seetohshaokang&show_icons=true&theme=calm&rank_icon=github&include_all_commits=true&custom_title=Anurag%27s+Stats&disable_animations=true&number_format=long&show=prs_merged_percentage,prs_reviewed
+[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=seetohshaokang&show_icons=true&theme=calm&rank_icon=github&include_all_commits=true&custom_title=ShaoKang%27s+Stats&disable_animations=true&number_format=long&show=prs_merged_percentage,prs_reviewed
 )](https://github.com/stats-organization/github-stats-extended)
 
 <!--

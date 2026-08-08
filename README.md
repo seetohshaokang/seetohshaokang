@@ -5,6 +5,8 @@
 
 ![ShaoKang's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=seetohshaokang&theme=tokyo-night)
 
+![My Skills](https://skillicons.dev/icons?i=go,python,java,aws,postgres,git,docker,kubernetes)
+
 <!--
 **seetohshaokang/seetohshaokang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
